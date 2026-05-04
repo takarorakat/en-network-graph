@@ -1,0 +1,4487 @@
+[
+  {
+    "name": "全日本私立幼稚園連合会",
+    "abbr": "日本私幼連",
+    "tag": "日本私幼連",
+    "level": "national",
+    "domain": "幼稚園",
+    "search_queries": [
+      "全日本私立幼稚園連合会 役員",
+      "全日本私立幼稚園連合会 理事 会長"
+    ]
+  },
+  {
+    "name": "全国保育連盟",
+    "abbr": "全国保育連盟",
+    "tag": "群馬私幼協",
+    "level": "national",
+    "domain": "保育園",
+    "search_queries": [
+      "全国保育連盟 役員名簿",
+      "全国保育連盟 理事 会長"
+    ]
+  },
+  {
+    "name": "日本保育協会",
+    "abbr": "日本保育協会",
+    "tag": "茨城私幼連",
+    "level": "national",
+    "domain": "保育園",
+    "search_queries": [
+      "日本保育協会 役員名簿",
+      "日本保育協会 理事 会長"
+    ]
+  },
+  {
+    "name": "全国私立保育連盟",
+    "abbr": "全国私立保育連盟",
+    "tag": "栃木私幼協",
+    "level": "national",
+    "domain": "保育園",
+    "search_queries": [
+      "全国私立保育連盟 役員",
+      "全国私立保育連盟 理事 会長"
+    ]
+  },
+  {
+    "name": "全国認定こども園協会",
+    "abbr": "全国認定こども園協会",
+    "tag": "認定こども園",
+    "level": "national",
+    "domain": "こども園",
+    "search_queries": [
+      "全国認定こども園協会 役員名簿",
+      "全国認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "日本こども育成協議会",
+    "abbr": "日本こども育成協議会",
+    "tag": null,
+    "level": "national",
+    "domain": "こども園",
+    "search_queries": [
+      "日本こども育成協議会 役員",
+      "日本こども育成協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "全国小規模保育協議会",
+    "abbr": "全国小規模保育協議会",
+    "tag": null,
+    "level": "national",
+    "domain": "保育園",
+    "search_queries": [
+      "全国小規模保育協議会 役員",
+      "全国小規模保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "東京都私立幼稚園連合会",
+    "abbr": "都私幼連",
+    "tag": "都私幼連",
+    "level": "prefecture",
+    "domain": "幼稚園",
+    "direct_urls": [
+      "https://www.tokyo-kindergarten.jp/about/"
+    ],
+    "search_queries": [
+      "東京都私立幼稚園連合会 役員名簿",
+      "東京都私立幼稚園連合会 理事 会長"
+    ]
+  },
+  {
+    "name": "東京都認定こども園協会",
+    "abbr": "東京都認定こども園協会",
+    "tag": "認定こども園",
+    "level": "prefecture",
+    "domain": "こども園",
+    "search_queries": [
+      "東京都認定こども園協会 役員",
+      "東京都認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "東京都民間保育園協会",
+    "abbr": "東京都民間保育園協会",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "保育園",
+    "search_queries": [
+      "東京都民間保育園協会 役員名簿",
+      "東京都民間保育園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "神奈川県私立幼稚園連合会",
+    "abbr": "神奈川私幼連",
+    "tag": "神奈川私幼連",
+    "level": "prefecture",
+    "domain": "幼稚園",
+    "search_queries": [
+      "神奈川県私立幼稚園連合会 役員名簿",
+      "神奈川県私立幼稚園連合会 理事 会長"
+    ]
+  },
+  {
+    "name": "全千葉県私立幼稚園連合会",
+    "abbr": "全千葉",
+    "tag": "全千葉",
+    "level": "prefecture",
+    "domain": "幼稚園",
+    "search_queries": [
+      "全千葉県私立幼稚園連合会 役員名簿",
+      "全千葉県私立幼稚園連合会 理事 会長"
+    ]
+  },
+  {
+    "name": "千葉県民間保育振興会",
+    "abbr": "千葉県民間保育振興会",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "保育園",
+    "search_queries": [
+      "千葉県民間保育振興会 役員名簿",
+      "千葉県民間保育振興会 理事 会長"
+    ]
+  },
+  {
+    "name": "全埼玉私立幼稚園連合会",
+    "abbr": "埼玉私幼連",
+    "tag": "埼玉私幼連",
+    "level": "prefecture",
+    "domain": "幼稚園",
+    "search_queries": [
+      "全埼玉私立幼稚園連合会 役員名簿",
+      "全埼玉私立幼稚園連合会 理事 会長"
+    ]
+  },
+  {
+    "name": "埼玉県日本保育協会",
+    "abbr": "埼玉県日本保育協会",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "保育園",
+    "search_queries": [
+      "埼玉県日本保育協会 役員名簿",
+      "埼玉県日本保育協会 理事 会長"
+    ]
+  },
+  {
+    "name": "茨城県私立幼稚園・認定こども園連合会",
+    "abbr": "茨城私幼連",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "幼稚園",
+    "search_queries": [
+      "茨城県私立幼稚園 認定こども園連合会 役員",
+      "茨城県私立幼稚園連合会 理事 会長"
+    ]
+  },
+  {
+    "name": "福島県私立幼稚園・認定こども園連合会",
+    "abbr": "福島私幼連",
+    "tag": "福島私幼連",
+    "level": "prefecture",
+    "domain": "幼稚園",
+    "search_queries": [
+      "福島県私立幼稚園 認定こども園連合会 役員",
+      "福島県幼稚園 こども園協会 役員名簿"
+    ]
+  },
+  {
+    "name": "大阪府私立幼稚園連盟",
+    "abbr": "大阪私幼連",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "幼稚園",
+    "search_queries": [
+      "大阪府私立幼稚園連盟 役員名簿",
+      "大阪府私立幼稚園連盟 理事 会長"
+    ]
+  },
+  {
+    "name": "京都府保育協会",
+    "abbr": "京都府保育協会",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "保育園",
+    "search_queries": [
+      "京都府保育協会 役員名簿",
+      "京都府保育協会 理事 会長"
+    ]
+  },
+  {
+    "name": "兵庫県保育協会",
+    "abbr": "兵庫県保育協会",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "保育園",
+    "search_queries": [
+      "兵庫県保育協会 役員名簿",
+      "兵庫県保育協会 理事 会長"
+    ]
+  },
+  {
+    "name": "兵庫県私立幼稚園協会",
+    "abbr": "兵庫私幼協",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "幼稚園",
+    "search_queries": [
+      "兵庫県私立幼稚園協会 役員名簿",
+      "兵庫県私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "愛知県私立幼稚園連盟",
+    "abbr": "愛知私幼連",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "幼稚園",
+    "search_queries": [
+      "愛知県私立幼稚園連盟 役員名簿",
+      "愛知県私立幼稚園連盟 理事 会長"
+    ]
+  },
+  {
+    "name": "愛知県私立保育園連盟",
+    "abbr": "愛知保育連盟",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "保育園",
+    "search_queries": [
+      "愛知県私立保育園連盟 役員名簿",
+      "愛知県私立保育園連盟 理事 会長"
+    ]
+  },
+  {
+    "name": "岐阜県民間保育園・こども園連盟",
+    "abbr": "岐阜保育連盟",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "保育園",
+    "search_queries": [
+      "岐阜県民間保育園 こども園連盟 役員",
+      "岐阜県民間保育園連盟 理事 会長"
+    ]
+  },
+  {
+    "name": "石川県私立幼稚園協会",
+    "abbr": "石川私幼協",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "幼稚園",
+    "search_queries": [
+      "石川県私立幼稚園協会 役員名簿",
+      "石川県私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "群馬県保育協議会",
+    "abbr": "群馬保育協",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "保育園",
+    "search_queries": [
+      "群馬県保育協議会 役員名簿",
+      "群馬県保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "横浜市幼稚園協会",
+    "abbr": "横浜幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "search_queries": [
+      "横浜市幼稚園協会 役員名簿",
+      "横浜市幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "神戸市私立幼稚園連盟",
+    "abbr": "神戸幼連盟",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "search_queries": [
+      "神戸市私立幼稚園連盟 役員名簿",
+      "神戸市私立幼稚園連盟 理事 会長"
+    ]
+  },
+  {
+    "name": "神戸市私立保育園連盟",
+    "abbr": "神戸保育連盟",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "search_queries": [
+      "神戸市私立保育園連盟 役員名簿",
+      "神戸市私立保育園連盟 理事 会長"
+    ]
+  },
+  {
+    "name": "さいたま市私立幼稚園協会",
+    "abbr": "さいたま幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "search_queries": [
+      "さいたま市私立幼稚園協会 役員名簿",
+      "さいたま市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "さいたま市私立保育園協会",
+    "abbr": "さいたま保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "search_queries": [
+      "さいたま市私立保育園協会 役員名簿",
+      "さいたま市私立保育園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "名古屋市私立幼稚園協会",
+    "abbr": "名古屋幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "search_queries": [
+      "名古屋市私立幼稚園協会 役員名簿",
+      "名古屋市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "川口市保育連盟",
+    "abbr": "川口保育連盟",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "search_queries": [
+      "川口市保育連盟 役員名簿",
+      "川口市保育連盟 理事 会長"
+    ]
+  },
+  {
+    "name": "西宮市私立保育協会",
+    "abbr": "西宮保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "search_queries": [
+      "西宮市私立保育協会 役員名簿",
+      "西宮市私立保育協会 理事 会長"
+    ]
+  },
+  {
+    "name": "京都市保育連盟",
+    "abbr": "京都市保育連盟",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "search_queries": [
+      "京都市保育連盟 役員名簿",
+      "京都市保育連盟 理事 会長"
+    ]
+  },
+  {
+    "name": "全国企業主導型保育事業連合会",
+    "abbr": "企業主導型保育連合会",
+    "tag": null,
+    "level": "national",
+    "domain": "保育園",
+    "search_queries": [
+      "全国企業主導型保育事業連合会 役員",
+      "全国企業主導型保育事業連合会 理事 会長"
+    ]
+  },
+  {
+    "name": "全国保育士会",
+    "abbr": "全国保育士会",
+    "tag": null,
+    "level": "national",
+    "domain": "保育園",
+    "direct_urls": [],
+    "search_queries": [
+      "全国保育士会 役員名簿",
+      "全国保育士会 理事 会長"
+    ]
+  },
+  {
+    "name": "日本私立幼稚園・こども園連合会",
+    "abbr": "日本私幼連",
+    "tag": null,
+    "level": "national",
+    "domain": "幼稚園・こども園",
+    "direct_urls": [],
+    "search_queries": [
+      "日本私立幼稚園・こども園連合会 役員名簿",
+      "日本私立幼稚園・こども園連合会 理事 会長"
+    ]
+  },
+  {
+    "name": "全国認定こども園連絡協議会",
+    "abbr": "全国こども園連絡協",
+    "tag": null,
+    "level": "national",
+    "domain": "こども園",
+    "direct_urls": [],
+    "search_queries": [
+      "全国認定こども園連絡協議会 役員名簿",
+      "全国認定こども園連絡協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "保育ICT推進協会",
+    "abbr": "保育ICT推進協会",
+    "tag": null,
+    "level": "national",
+    "domain": "保育園",
+    "direct_urls": [],
+    "search_queries": [
+      "保育ICT推進協会 役員名簿",
+      "保育ICT推進協会 理事 会長"
+    ]
+  },
+  {
+    "name": "神奈川県保育協議会",
+    "abbr": "神奈川保育協",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "保育園",
+    "prefecture": "神奈川県",
+    "direct_urls": [],
+    "search_queries": [
+      "神奈川県保育協議会 役員名簿",
+      "神奈川県保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "神奈川県認定こども園協会",
+    "abbr": "神奈川こども園協会",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "こども園",
+    "prefecture": "神奈川県",
+    "direct_urls": [],
+    "search_queries": [
+      "神奈川県認定こども園協会 役員名簿",
+      "神奈川県認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "千葉県保育協議会",
+    "abbr": "千葉保育協",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "保育園",
+    "prefecture": "千葉県",
+    "direct_urls": [],
+    "search_queries": [
+      "千葉県保育協議会 役員名簿",
+      "千葉県保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "千葉県認定こども園協会",
+    "abbr": "千葉こども園協会",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "こども園",
+    "prefecture": "千葉県",
+    "direct_urls": [],
+    "search_queries": [
+      "千葉県認定こども園協会 役員名簿",
+      "千葉県認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "埼玉県保育協議会",
+    "abbr": "埼玉保育協",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "保育園",
+    "prefecture": "埼玉県",
+    "direct_urls": [],
+    "search_queries": [
+      "埼玉県保育協議会 役員名簿",
+      "埼玉県保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "埼玉県認定こども園協会",
+    "abbr": "埼玉こども園協会",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "こども園",
+    "prefecture": "埼玉県",
+    "direct_urls": [],
+    "search_queries": [
+      "埼玉県認定こども園協会 役員名簿",
+      "埼玉県認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "茨城県保育協議会",
+    "abbr": "茨城保育協",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "保育園",
+    "prefecture": "茨城県",
+    "direct_urls": [],
+    "search_queries": [
+      "茨城県保育協議会 役員名簿",
+      "茨城県保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "茨城県認定こども園協会",
+    "abbr": "茨城こども園協会",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "こども園",
+    "prefecture": "茨城県",
+    "direct_urls": [],
+    "search_queries": [
+      "茨城県認定こども園協会 役員名簿",
+      "茨城県認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "栃木県保育協議会",
+    "abbr": "栃木保育協",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "保育園",
+    "prefecture": "栃木県",
+    "direct_urls": [],
+    "search_queries": [
+      "栃木県保育協議会 役員名簿",
+      "栃木県保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "栃木県認定こども園協会",
+    "abbr": "栃木こども園協会",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "こども園",
+    "prefecture": "栃木県",
+    "direct_urls": [],
+    "search_queries": [
+      "栃木県認定こども園協会 役員名簿",
+      "栃木県認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "群馬県認定こども園協会",
+    "abbr": "群馬こども園協会",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "こども園",
+    "prefecture": "群馬県",
+    "direct_urls": [],
+    "search_queries": [
+      "群馬県認定こども園協会 役員名簿",
+      "群馬県認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "山梨県保育協議会",
+    "abbr": "山梨保育協",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "保育園",
+    "prefecture": "山梨県",
+    "direct_urls": [],
+    "search_queries": [
+      "山梨県保育協議会 役員名簿",
+      "山梨県保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "山梨県認定こども園協会",
+    "abbr": "山梨こども園協会",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "こども園",
+    "prefecture": "山梨県",
+    "direct_urls": [],
+    "search_queries": [
+      "山梨県認定こども園協会 役員名簿",
+      "山梨県認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "栃木県私立幼稚園・こども園協会",
+    "abbr": "栃木私幼協",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "幼稚園・こども園",
+    "prefecture": "栃木県",
+    "direct_urls": [],
+    "search_queries": [
+      "栃木県私立幼稚園・こども園協会 役員名簿",
+      "栃木県私立幼稚園・こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "群馬県私立幼稚園・認定こども園協会",
+    "abbr": "群馬私幼協",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "幼稚園・こども園",
+    "prefecture": "群馬県",
+    "direct_urls": [],
+    "search_queries": [
+      "群馬県私立幼稚園・認定こども園協会 役員名簿",
+      "群馬県私立幼稚園・認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "山梨県私立幼稚園協会",
+    "abbr": "山梨私幼協",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "幼稚園",
+    "prefecture": "山梨県",
+    "direct_urls": [],
+    "search_queries": [
+      "山梨県私立幼稚園協会 役員名簿",
+      "山梨県私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "千葉市幼稚園協会",
+    "abbr": "千葉市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "千葉県",
+    "city": "千葉市",
+    "direct_urls": [],
+    "search_queries": [
+      "千葉市幼稚園協会 役員名簿",
+      "千葉市幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "青森県私立幼稚園協会",
+    "abbr": "青森私幼協",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "幼稚園",
+    "prefecture": "青森県",
+    "direct_urls": [],
+    "search_queries": [
+      "青森県私立幼稚園協会 役員名簿",
+      "青森県私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "青森県保育協議会",
+    "abbr": "青森保育協",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "保育園",
+    "prefecture": "青森県",
+    "direct_urls": [],
+    "search_queries": [
+      "青森県保育協議会 役員名簿",
+      "青森県保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "青森県認定こども園協会",
+    "abbr": "青森こども園協会",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "こども園",
+    "prefecture": "青森県",
+    "direct_urls": [],
+    "search_queries": [
+      "青森県認定こども園協会 役員名簿",
+      "青森県認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "岩手県私立幼稚園協会",
+    "abbr": "岩手私幼協",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "幼稚園",
+    "prefecture": "岩手県",
+    "direct_urls": [],
+    "search_queries": [
+      "岩手県私立幼稚園協会 役員名簿",
+      "岩手県私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "岩手県保育協議会",
+    "abbr": "岩手保育協",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "保育園",
+    "prefecture": "岩手県",
+    "direct_urls": [],
+    "search_queries": [
+      "岩手県保育協議会 役員名簿",
+      "岩手県保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "岩手県認定こども園協会",
+    "abbr": "岩手こども園協会",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "こども園",
+    "prefecture": "岩手県",
+    "direct_urls": [],
+    "search_queries": [
+      "岩手県認定こども園協会 役員名簿",
+      "岩手県認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "宮城県私立幼稚園協会",
+    "abbr": "宮城私幼協",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "幼稚園",
+    "prefecture": "宮城県",
+    "direct_urls": [],
+    "search_queries": [
+      "宮城県私立幼稚園協会 役員名簿",
+      "宮城県私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "宮城県保育協議会",
+    "abbr": "宮城保育協",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "保育園",
+    "prefecture": "宮城県",
+    "direct_urls": [],
+    "search_queries": [
+      "宮城県保育協議会 役員名簿",
+      "宮城県保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "宮城県認定こども園協会",
+    "abbr": "宮城こども園協会",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "こども園",
+    "prefecture": "宮城県",
+    "direct_urls": [],
+    "search_queries": [
+      "宮城県認定こども園協会 役員名簿",
+      "宮城県認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "秋田県私立幼稚園協会",
+    "abbr": "秋田私幼協",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "幼稚園",
+    "prefecture": "秋田県",
+    "direct_urls": [],
+    "search_queries": [
+      "秋田県私立幼稚園協会 役員名簿",
+      "秋田県私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "秋田県保育協議会",
+    "abbr": "秋田保育協",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "保育園",
+    "prefecture": "秋田県",
+    "direct_urls": [],
+    "search_queries": [
+      "秋田県保育協議会 役員名簿",
+      "秋田県保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "秋田県認定こども園協会",
+    "abbr": "秋田こども園協会",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "こども園",
+    "prefecture": "秋田県",
+    "direct_urls": [],
+    "search_queries": [
+      "秋田県認定こども園協会 役員名簿",
+      "秋田県認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "山形県私立幼稚園協会",
+    "abbr": "山形私幼協",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "幼稚園",
+    "prefecture": "山形県",
+    "direct_urls": [],
+    "search_queries": [
+      "山形県私立幼稚園協会 役員名簿",
+      "山形県私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "山形県保育協議会",
+    "abbr": "山形保育協",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "保育園",
+    "prefecture": "山形県",
+    "direct_urls": [],
+    "search_queries": [
+      "山形県保育協議会 役員名簿",
+      "山形県保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "山形県認定こども園協会",
+    "abbr": "山形こども園協会",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "こども園",
+    "prefecture": "山形県",
+    "direct_urls": [],
+    "search_queries": [
+      "山形県認定こども園協会 役員名簿",
+      "山形県認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "福島県私立幼稚園協会",
+    "abbr": "福島私幼協",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "幼稚園",
+    "prefecture": "福島県",
+    "direct_urls": [],
+    "search_queries": [
+      "福島県私立幼稚園協会 役員名簿",
+      "福島県私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "福島県保育協議会",
+    "abbr": "福島保育協",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "保育園",
+    "prefecture": "福島県",
+    "direct_urls": [],
+    "search_queries": [
+      "福島県保育協議会 役員名簿",
+      "福島県保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "福島県認定こども園協会",
+    "abbr": "福島こども園協会",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "こども園",
+    "prefecture": "福島県",
+    "direct_urls": [],
+    "search_queries": [
+      "福島県認定こども園協会 役員名簿",
+      "福島県認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "宮城県私立幼稚園・認定こども園協会",
+    "abbr": "宮城私幼協",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "幼稚園・こども園",
+    "prefecture": "宮城県",
+    "direct_urls": [],
+    "search_queries": [
+      "宮城県私立幼稚園・認定こども園協会 役員名簿",
+      "宮城県私立幼稚園・認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "福島県幼稚園・こども園協会",
+    "abbr": "福島幼協",
+    "tag": null,
+    "level": "prefecture",
+    "domain": "こども園",
+    "prefecture": "福島県",
+    "direct_urls": [],
+    "search_queries": [
+      "福島県幼稚園・こども園協会 役員名簿",
+      "福島県幼稚園・こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "札幌市私立幼稚園協会",
+    "abbr": "札幌市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "北海道",
+    "city": "札幌市",
+    "direct_urls": [],
+    "search_queries": [
+      "札幌市私立幼稚園協会 役員名簿",
+      "札幌市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "札幌市保育協議会",
+    "abbr": "札幌市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "北海道",
+    "city": "札幌市",
+    "direct_urls": [],
+    "search_queries": [
+      "札幌市保育協議会 役員名簿",
+      "札幌市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "札幌市認定こども園協会",
+    "abbr": "札幌市こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "北海道",
+    "city": "札幌市",
+    "direct_urls": [],
+    "search_queries": [
+      "札幌市認定こども園協会 役員名簿",
+      "札幌市認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "仙台市私立幼稚園協会",
+    "abbr": "仙台市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "宮城県",
+    "city": "仙台市",
+    "direct_urls": [],
+    "search_queries": [
+      "仙台市私立幼稚園協会 役員名簿",
+      "仙台市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "仙台市保育協議会",
+    "abbr": "仙台市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "宮城県",
+    "city": "仙台市",
+    "direct_urls": [],
+    "search_queries": [
+      "仙台市保育協議会 役員名簿",
+      "仙台市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "仙台市認定こども園協会",
+    "abbr": "仙台市こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "宮城県",
+    "city": "仙台市",
+    "direct_urls": [],
+    "search_queries": [
+      "仙台市認定こども園協会 役員名簿",
+      "仙台市認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "千葉市私立幼稚園協会",
+    "abbr": "千葉市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "千葉県",
+    "city": "千葉市",
+    "direct_urls": [],
+    "search_queries": [
+      "千葉市私立幼稚園協会 役員名簿",
+      "千葉市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "千葉市保育協議会",
+    "abbr": "千葉市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "千葉県",
+    "city": "千葉市",
+    "direct_urls": [],
+    "search_queries": [
+      "千葉市保育協議会 役員名簿",
+      "千葉市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "千葉市認定こども園協会",
+    "abbr": "千葉市こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "千葉県",
+    "city": "千葉市",
+    "direct_urls": [],
+    "search_queries": [
+      "千葉市認定こども園協会 役員名簿",
+      "千葉市認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "横浜市私立幼稚園協会",
+    "abbr": "横浜市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "神奈川県",
+    "city": "横浜市",
+    "direct_urls": [],
+    "search_queries": [
+      "横浜市私立幼稚園協会 役員名簿",
+      "横浜市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "横浜市保育協議会",
+    "abbr": "横浜市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "神奈川県",
+    "city": "横浜市",
+    "direct_urls": [],
+    "search_queries": [
+      "横浜市保育協議会 役員名簿",
+      "横浜市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "横浜市認定こども園協会",
+    "abbr": "横浜市こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "神奈川県",
+    "city": "横浜市",
+    "direct_urls": [],
+    "search_queries": [
+      "横浜市認定こども園協会 役員名簿",
+      "横浜市認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "川崎市私立幼稚園協会",
+    "abbr": "川崎市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "神奈川県",
+    "city": "川崎市",
+    "direct_urls": [],
+    "search_queries": [
+      "川崎市私立幼稚園協会 役員名簿",
+      "川崎市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "川崎市保育協議会",
+    "abbr": "川崎市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "神奈川県",
+    "city": "川崎市",
+    "direct_urls": [],
+    "search_queries": [
+      "川崎市保育協議会 役員名簿",
+      "川崎市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "川崎市認定こども園協会",
+    "abbr": "川崎市こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "神奈川県",
+    "city": "川崎市",
+    "direct_urls": [],
+    "search_queries": [
+      "川崎市認定こども園協会 役員名簿",
+      "川崎市認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "相模原市私立幼稚園協会",
+    "abbr": "相模原市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "神奈川県",
+    "city": "相模原市",
+    "direct_urls": [],
+    "search_queries": [
+      "相模原市私立幼稚園協会 役員名簿",
+      "相模原市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "相模原市保育協議会",
+    "abbr": "相模原市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "神奈川県",
+    "city": "相模原市",
+    "direct_urls": [],
+    "search_queries": [
+      "相模原市保育協議会 役員名簿",
+      "相模原市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "相模原市認定こども園協会",
+    "abbr": "相模原市こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "神奈川県",
+    "city": "相模原市",
+    "direct_urls": [],
+    "search_queries": [
+      "相模原市認定こども園協会 役員名簿",
+      "相模原市認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "新潟市私立幼稚園協会",
+    "abbr": "新潟市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "新潟県",
+    "city": "新潟市",
+    "direct_urls": [],
+    "search_queries": [
+      "新潟市私立幼稚園協会 役員名簿",
+      "新潟市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "新潟市保育協議会",
+    "abbr": "新潟市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "新潟県",
+    "city": "新潟市",
+    "direct_urls": [],
+    "search_queries": [
+      "新潟市保育協議会 役員名簿",
+      "新潟市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "新潟市認定こども園協会",
+    "abbr": "新潟市こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "新潟県",
+    "city": "新潟市",
+    "direct_urls": [],
+    "search_queries": [
+      "新潟市認定こども園協会 役員名簿",
+      "新潟市認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "静岡市私立幼稚園協会",
+    "abbr": "静岡市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "静岡県",
+    "city": "静岡市",
+    "direct_urls": [],
+    "search_queries": [
+      "静岡市私立幼稚園協会 役員名簿",
+      "静岡市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "静岡市保育協議会",
+    "abbr": "静岡市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "静岡県",
+    "city": "静岡市",
+    "direct_urls": [],
+    "search_queries": [
+      "静岡市保育協議会 役員名簿",
+      "静岡市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "静岡市認定こども園協会",
+    "abbr": "静岡市こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "静岡県",
+    "city": "静岡市",
+    "direct_urls": [],
+    "search_queries": [
+      "静岡市認定こども園協会 役員名簿",
+      "静岡市認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "浜松市私立幼稚園協会",
+    "abbr": "浜松市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "静岡県",
+    "city": "浜松市",
+    "direct_urls": [],
+    "search_queries": [
+      "浜松市私立幼稚園協会 役員名簿",
+      "浜松市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "浜松市保育協議会",
+    "abbr": "浜松市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "静岡県",
+    "city": "浜松市",
+    "direct_urls": [],
+    "search_queries": [
+      "浜松市保育協議会 役員名簿",
+      "浜松市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "浜松市認定こども園協会",
+    "abbr": "浜松市こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "静岡県",
+    "city": "浜松市",
+    "direct_urls": [],
+    "search_queries": [
+      "浜松市認定こども園協会 役員名簿",
+      "浜松市認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "名古屋市保育協議会",
+    "abbr": "名古屋市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "愛知県",
+    "city": "名古屋市",
+    "direct_urls": [],
+    "search_queries": [
+      "名古屋市保育協議会 役員名簿",
+      "名古屋市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "名古屋市認定こども園協会",
+    "abbr": "名古屋市こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "愛知県",
+    "city": "名古屋市",
+    "direct_urls": [],
+    "search_queries": [
+      "名古屋市認定こども園協会 役員名簿",
+      "名古屋市認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "京都市私立幼稚園協会",
+    "abbr": "京都市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "京都府",
+    "city": "京都市",
+    "direct_urls": [],
+    "search_queries": [
+      "京都市私立幼稚園協会 役員名簿",
+      "京都市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "京都市保育協議会",
+    "abbr": "京都市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "京都府",
+    "city": "京都市",
+    "direct_urls": [],
+    "search_queries": [
+      "京都市保育協議会 役員名簿",
+      "京都市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "京都市認定こども園協会",
+    "abbr": "京都市こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "京都府",
+    "city": "京都市",
+    "direct_urls": [],
+    "search_queries": [
+      "京都市認定こども園協会 役員名簿",
+      "京都市認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "大阪市私立幼稚園協会",
+    "abbr": "大阪市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "大阪府",
+    "city": "大阪市",
+    "direct_urls": [],
+    "search_queries": [
+      "大阪市私立幼稚園協会 役員名簿",
+      "大阪市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "大阪市保育協議会",
+    "abbr": "大阪市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "大阪府",
+    "city": "大阪市",
+    "direct_urls": [],
+    "search_queries": [
+      "大阪市保育協議会 役員名簿",
+      "大阪市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "大阪市認定こども園協会",
+    "abbr": "大阪市こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "大阪府",
+    "city": "大阪市",
+    "direct_urls": [],
+    "search_queries": [
+      "大阪市認定こども園協会 役員名簿",
+      "大阪市認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "堺市私立幼稚園協会",
+    "abbr": "堺市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "大阪府",
+    "city": "堺市",
+    "direct_urls": [],
+    "search_queries": [
+      "堺市私立幼稚園協会 役員名簿",
+      "堺市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "堺市保育協議会",
+    "abbr": "堺市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "大阪府",
+    "city": "堺市",
+    "direct_urls": [],
+    "search_queries": [
+      "堺市保育協議会 役員名簿",
+      "堺市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "堺市認定こども園協会",
+    "abbr": "堺市こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "大阪府",
+    "city": "堺市",
+    "direct_urls": [],
+    "search_queries": [
+      "堺市認定こども園協会 役員名簿",
+      "堺市認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "岡山市私立幼稚園協会",
+    "abbr": "岡山市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "岡山県",
+    "city": "岡山市",
+    "direct_urls": [],
+    "search_queries": [
+      "岡山市私立幼稚園協会 役員名簿",
+      "岡山市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "岡山市保育協議会",
+    "abbr": "岡山市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "岡山県",
+    "city": "岡山市",
+    "direct_urls": [],
+    "search_queries": [
+      "岡山市保育協議会 役員名簿",
+      "岡山市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "岡山市認定こども園協会",
+    "abbr": "岡山市こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "岡山県",
+    "city": "岡山市",
+    "direct_urls": [],
+    "search_queries": [
+      "岡山市認定こども園協会 役員名簿",
+      "岡山市認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "広島市私立幼稚園協会",
+    "abbr": "広島市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "広島県",
+    "city": "広島市",
+    "direct_urls": [],
+    "search_queries": [
+      "広島市私立幼稚園協会 役員名簿",
+      "広島市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "広島市保育協議会",
+    "abbr": "広島市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "広島県",
+    "city": "広島市",
+    "direct_urls": [],
+    "search_queries": [
+      "広島市保育協議会 役員名簿",
+      "広島市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "広島市認定こども園協会",
+    "abbr": "広島市こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "広島県",
+    "city": "広島市",
+    "direct_urls": [],
+    "search_queries": [
+      "広島市認定こども園協会 役員名簿",
+      "広島市認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "北九州市私立幼稚園協会",
+    "abbr": "北九州市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "福岡県",
+    "city": "北九州市",
+    "direct_urls": [],
+    "search_queries": [
+      "北九州市私立幼稚園協会 役員名簿",
+      "北九州市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "北九州市保育協議会",
+    "abbr": "北九州市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "福岡県",
+    "city": "北九州市",
+    "direct_urls": [],
+    "search_queries": [
+      "北九州市保育協議会 役員名簿",
+      "北九州市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "北九州市認定こども園協会",
+    "abbr": "北九州市こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "福岡県",
+    "city": "北九州市",
+    "direct_urls": [],
+    "search_queries": [
+      "北九州市認定こども園協会 役員名簿",
+      "北九州市認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "福岡市私立幼稚園協会",
+    "abbr": "福岡市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "福岡県",
+    "city": "福岡市",
+    "direct_urls": [],
+    "search_queries": [
+      "福岡市私立幼稚園協会 役員名簿",
+      "福岡市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "福岡市保育協議会",
+    "abbr": "福岡市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "福岡県",
+    "city": "福岡市",
+    "direct_urls": [],
+    "search_queries": [
+      "福岡市保育協議会 役員名簿",
+      "福岡市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "福岡市認定こども園協会",
+    "abbr": "福岡市こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "福岡県",
+    "city": "福岡市",
+    "direct_urls": [],
+    "search_queries": [
+      "福岡市認定こども園協会 役員名簿",
+      "福岡市認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "熊本市私立幼稚園協会",
+    "abbr": "熊本市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "熊本県",
+    "city": "熊本市",
+    "direct_urls": [],
+    "search_queries": [
+      "熊本市私立幼稚園協会 役員名簿",
+      "熊本市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "熊本市保育協議会",
+    "abbr": "熊本市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "熊本県",
+    "city": "熊本市",
+    "direct_urls": [],
+    "search_queries": [
+      "熊本市保育協議会 役員名簿",
+      "熊本市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "熊本市認定こども園協会",
+    "abbr": "熊本市こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "熊本県",
+    "city": "熊本市",
+    "direct_urls": [],
+    "search_queries": [
+      "熊本市認定こども園協会 役員名簿",
+      "熊本市認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "千代田区私立幼稚園協会",
+    "abbr": "千代田区幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "direct_urls": [],
+    "search_queries": [
+      "千代田区私立幼稚園協会 役員名簿",
+      "千代田区私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "千代田区私立保育園協会",
+    "abbr": "千代田区保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "direct_urls": [],
+    "search_queries": [
+      "千代田区私立保育園協会 役員名簿",
+      "千代田区私立保育園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "千代田区認定こども園協会",
+    "abbr": "千代田区こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "direct_urls": [],
+    "search_queries": [
+      "千代田区認定こども園協会 役員名簿",
+      "千代田区認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "中央区私立幼稚園協会",
+    "abbr": "中央区幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "direct_urls": [],
+    "search_queries": [
+      "中央区私立幼稚園協会 役員名簿",
+      "中央区私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "中央区私立保育園協会",
+    "abbr": "中央区保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "direct_urls": [],
+    "search_queries": [
+      "中央区私立保育園協会 役員名簿",
+      "中央区私立保育園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "中央区認定こども園協会",
+    "abbr": "中央区こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "direct_urls": [],
+    "search_queries": [
+      "中央区認定こども園協会 役員名簿",
+      "中央区認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "港区私立幼稚園協会",
+    "abbr": "港区幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "港区",
+    "direct_urls": [],
+    "search_queries": [
+      "港区私立幼稚園協会 役員名簿",
+      "港区私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "港区私立保育園協会",
+    "abbr": "港区保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "港区",
+    "direct_urls": [],
+    "search_queries": [
+      "港区私立保育園協会 役員名簿",
+      "港区私立保育園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "港区認定こども園協会",
+    "abbr": "港区こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "東京都",
+    "city": "港区",
+    "direct_urls": [],
+    "search_queries": [
+      "港区認定こども園協会 役員名簿",
+      "港区認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "新宿区私立幼稚園協会",
+    "abbr": "新宿区幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "direct_urls": [],
+    "search_queries": [
+      "新宿区私立幼稚園協会 役員名簿",
+      "新宿区私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "新宿区私立保育園協会",
+    "abbr": "新宿区保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "direct_urls": [],
+    "search_queries": [
+      "新宿区私立保育園協会 役員名簿",
+      "新宿区私立保育園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "新宿区認定こども園協会",
+    "abbr": "新宿区こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "direct_urls": [],
+    "search_queries": [
+      "新宿区認定こども園協会 役員名簿",
+      "新宿区認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "文京区私立幼稚園協会",
+    "abbr": "文京区幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "文京区",
+    "direct_urls": [],
+    "search_queries": [
+      "文京区私立幼稚園協会 役員名簿",
+      "文京区私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "文京区私立保育園協会",
+    "abbr": "文京区保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "文京区",
+    "direct_urls": [],
+    "search_queries": [
+      "文京区私立保育園協会 役員名簿",
+      "文京区私立保育園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "文京区認定こども園協会",
+    "abbr": "文京区こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "東京都",
+    "city": "文京区",
+    "direct_urls": [],
+    "search_queries": [
+      "文京区認定こども園協会 役員名簿",
+      "文京区認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "台東区私立幼稚園協会",
+    "abbr": "台東区幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "direct_urls": [],
+    "search_queries": [
+      "台東区私立幼稚園協会 役員名簿",
+      "台東区私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "台東区私立保育園協会",
+    "abbr": "台東区保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "direct_urls": [],
+    "search_queries": [
+      "台東区私立保育園協会 役員名簿",
+      "台東区私立保育園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "台東区認定こども園協会",
+    "abbr": "台東区こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "direct_urls": [],
+    "search_queries": [
+      "台東区認定こども園協会 役員名簿",
+      "台東区認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "墨田区私立幼稚園協会",
+    "abbr": "墨田区幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "墨田区",
+    "direct_urls": [],
+    "search_queries": [
+      "墨田区私立幼稚園協会 役員名簿",
+      "墨田区私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "墨田区私立保育園協会",
+    "abbr": "墨田区保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "墨田区",
+    "direct_urls": [],
+    "search_queries": [
+      "墨田区私立保育園協会 役員名簿",
+      "墨田区私立保育園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "墨田区認定こども園協会",
+    "abbr": "墨田区こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "東京都",
+    "city": "墨田区",
+    "direct_urls": [],
+    "search_queries": [
+      "墨田区認定こども園協会 役員名簿",
+      "墨田区認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "江東区私立幼稚園協会",
+    "abbr": "江東区幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "direct_urls": [],
+    "search_queries": [
+      "江東区私立幼稚園協会 役員名簿",
+      "江東区私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "江東区私立保育園協会",
+    "abbr": "江東区保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "direct_urls": [],
+    "search_queries": [
+      "江東区私立保育園協会 役員名簿",
+      "江東区私立保育園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "江東区認定こども園協会",
+    "abbr": "江東区こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "direct_urls": [],
+    "search_queries": [
+      "江東区認定こども園協会 役員名簿",
+      "江東区認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "品川区私立幼稚園協会",
+    "abbr": "品川区幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "品川区",
+    "direct_urls": [],
+    "search_queries": [
+      "品川区私立幼稚園協会 役員名簿",
+      "品川区私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "品川区私立保育園協会",
+    "abbr": "品川区保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "品川区",
+    "direct_urls": [],
+    "search_queries": [
+      "品川区私立保育園協会 役員名簿",
+      "品川区私立保育園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "品川区認定こども園協会",
+    "abbr": "品川区こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "東京都",
+    "city": "品川区",
+    "direct_urls": [],
+    "search_queries": [
+      "品川区認定こども園協会 役員名簿",
+      "品川区認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "目黒区私立幼稚園協会",
+    "abbr": "目黒区幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "direct_urls": [],
+    "search_queries": [
+      "目黒区私立幼稚園協会 役員名簿",
+      "目黒区私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "目黒区私立保育園協会",
+    "abbr": "目黒区保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "direct_urls": [],
+    "search_queries": [
+      "目黒区私立保育園協会 役員名簿",
+      "目黒区私立保育園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "目黒区認定こども園協会",
+    "abbr": "目黒区こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "direct_urls": [],
+    "search_queries": [
+      "目黒区認定こども園協会 役員名簿",
+      "目黒区認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "大田区私立幼稚園協会",
+    "abbr": "大田区幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "direct_urls": [],
+    "search_queries": [
+      "大田区私立幼稚園協会 役員名簿",
+      "大田区私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "大田区私立保育園協会",
+    "abbr": "大田区保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "direct_urls": [],
+    "search_queries": [
+      "大田区私立保育園協会 役員名簿",
+      "大田区私立保育園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "大田区認定こども園協会",
+    "abbr": "大田区こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "direct_urls": [],
+    "search_queries": [
+      "大田区認定こども園協会 役員名簿",
+      "大田区認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "世田谷区私立幼稚園協会",
+    "abbr": "世田谷区幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "direct_urls": [],
+    "search_queries": [
+      "世田谷区私立幼稚園協会 役員名簿",
+      "世田谷区私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "世田谷区私立保育園協会",
+    "abbr": "世田谷区保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "direct_urls": [],
+    "search_queries": [
+      "世田谷区私立保育園協会 役員名簿",
+      "世田谷区私立保育園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "世田谷区認定こども園協会",
+    "abbr": "世田谷区こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "direct_urls": [],
+    "search_queries": [
+      "世田谷区認定こども園協会 役員名簿",
+      "世田谷区認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "渋谷区私立幼稚園協会",
+    "abbr": "渋谷区幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "direct_urls": [],
+    "search_queries": [
+      "渋谷区私立幼稚園協会 役員名簿",
+      "渋谷区私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "渋谷区私立保育園協会",
+    "abbr": "渋谷区保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "direct_urls": [],
+    "search_queries": [
+      "渋谷区私立保育園協会 役員名簿",
+      "渋谷区私立保育園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "渋谷区認定こども園協会",
+    "abbr": "渋谷区こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "direct_urls": [],
+    "search_queries": [
+      "渋谷区認定こども園協会 役員名簿",
+      "渋谷区認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "中野区私立幼稚園協会",
+    "abbr": "中野区幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "中野区",
+    "direct_urls": [],
+    "search_queries": [
+      "中野区私立幼稚園協会 役員名簿",
+      "中野区私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "中野区私立保育園協会",
+    "abbr": "中野区保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "中野区",
+    "direct_urls": [],
+    "search_queries": [
+      "中野区私立保育園協会 役員名簿",
+      "中野区私立保育園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "中野区認定こども園協会",
+    "abbr": "中野区こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "東京都",
+    "city": "中野区",
+    "direct_urls": [],
+    "search_queries": [
+      "中野区認定こども園協会 役員名簿",
+      "中野区認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "杉並区私立幼稚園協会",
+    "abbr": "杉並区幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "direct_urls": [],
+    "search_queries": [
+      "杉並区私立幼稚園協会 役員名簿",
+      "杉並区私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "杉並区私立保育園協会",
+    "abbr": "杉並区保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "direct_urls": [],
+    "search_queries": [
+      "杉並区私立保育園協会 役員名簿",
+      "杉並区私立保育園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "杉並区認定こども園協会",
+    "abbr": "杉並区こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "direct_urls": [],
+    "search_queries": [
+      "杉並区認定こども園協会 役員名簿",
+      "杉並区認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "豊島区私立幼稚園協会",
+    "abbr": "豊島区幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "direct_urls": [],
+    "search_queries": [
+      "豊島区私立幼稚園協会 役員名簿",
+      "豊島区私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "豊島区私立保育園協会",
+    "abbr": "豊島区保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "direct_urls": [],
+    "search_queries": [
+      "豊島区私立保育園協会 役員名簿",
+      "豊島区私立保育園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "豊島区認定こども園協会",
+    "abbr": "豊島区こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "direct_urls": [],
+    "search_queries": [
+      "豊島区認定こども園協会 役員名簿",
+      "豊島区認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "北区私立幼稚園協会",
+    "abbr": "北区幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "北区",
+    "direct_urls": [],
+    "search_queries": [
+      "北区私立幼稚園協会 役員名簿",
+      "北区私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "北区私立保育園協会",
+    "abbr": "北区保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "北区",
+    "direct_urls": [],
+    "search_queries": [
+      "北区私立保育園協会 役員名簿",
+      "北区私立保育園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "北区認定こども園協会",
+    "abbr": "北区こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "東京都",
+    "city": "北区",
+    "direct_urls": [],
+    "search_queries": [
+      "北区認定こども園協会 役員名簿",
+      "北区認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "荒川区私立幼稚園協会",
+    "abbr": "荒川区幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "荒川区",
+    "direct_urls": [],
+    "search_queries": [
+      "荒川区私立幼稚園協会 役員名簿",
+      "荒川区私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "荒川区私立保育園協会",
+    "abbr": "荒川区保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "荒川区",
+    "direct_urls": [],
+    "search_queries": [
+      "荒川区私立保育園協会 役員名簿",
+      "荒川区私立保育園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "荒川区認定こども園協会",
+    "abbr": "荒川区こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "東京都",
+    "city": "荒川区",
+    "direct_urls": [],
+    "search_queries": [
+      "荒川区認定こども園協会 役員名簿",
+      "荒川区認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "板橋区私立幼稚園協会",
+    "abbr": "板橋区幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "direct_urls": [],
+    "search_queries": [
+      "板橋区私立幼稚園協会 役員名簿",
+      "板橋区私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "板橋区私立保育園協会",
+    "abbr": "板橋区保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "direct_urls": [],
+    "search_queries": [
+      "板橋区私立保育園協会 役員名簿",
+      "板橋区私立保育園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "板橋区認定こども園協会",
+    "abbr": "板橋区こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "direct_urls": [],
+    "search_queries": [
+      "板橋区認定こども園協会 役員名簿",
+      "板橋区認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "練馬区私立幼稚園協会",
+    "abbr": "練馬区幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "direct_urls": [],
+    "search_queries": [
+      "練馬区私立幼稚園協会 役員名簿",
+      "練馬区私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "練馬区私立保育園協会",
+    "abbr": "練馬区保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "direct_urls": [],
+    "search_queries": [
+      "練馬区私立保育園協会 役員名簿",
+      "練馬区私立保育園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "練馬区認定こども園協会",
+    "abbr": "練馬区こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "direct_urls": [],
+    "search_queries": [
+      "練馬区認定こども園協会 役員名簿",
+      "練馬区認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "足立区私立幼稚園協会",
+    "abbr": "足立区幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "direct_urls": [],
+    "search_queries": [
+      "足立区私立幼稚園協会 役員名簿",
+      "足立区私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "足立区私立保育園協会",
+    "abbr": "足立区保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "direct_urls": [],
+    "search_queries": [
+      "足立区私立保育園協会 役員名簿",
+      "足立区私立保育園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "足立区認定こども園協会",
+    "abbr": "足立区こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "direct_urls": [],
+    "search_queries": [
+      "足立区認定こども園協会 役員名簿",
+      "足立区認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "葛飾区私立幼稚園協会",
+    "abbr": "葛飾区幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "direct_urls": [],
+    "search_queries": [
+      "葛飾区私立幼稚園協会 役員名簿",
+      "葛飾区私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "葛飾区私立保育園協会",
+    "abbr": "葛飾区保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "direct_urls": [],
+    "search_queries": [
+      "葛飾区私立保育園協会 役員名簿",
+      "葛飾区私立保育園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "葛飾区認定こども園協会",
+    "abbr": "葛飾区こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "direct_urls": [],
+    "search_queries": [
+      "葛飾区認定こども園協会 役員名簿",
+      "葛飾区認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "江戸川区私立幼稚園協会",
+    "abbr": "江戸川区幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "direct_urls": [],
+    "search_queries": [
+      "江戸川区私立幼稚園協会 役員名簿",
+      "江戸川区私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "江戸川区私立保育園協会",
+    "abbr": "江戸川区保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "direct_urls": [],
+    "search_queries": [
+      "江戸川区私立保育園協会 役員名簿",
+      "江戸川区私立保育園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "江戸川区認定こども園協会",
+    "abbr": "江戸川区こども園協",
+    "tag": null,
+    "level": "city",
+    "domain": "こども園",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "direct_urls": [],
+    "search_queries": [
+      "江戸川区認定こども園協会 役員名簿",
+      "江戸川区認定こども園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "立川市私立幼稚園協会",
+    "abbr": "立川市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "立川市",
+    "direct_urls": [],
+    "search_queries": [
+      "立川市私立幼稚園協会 役員名簿",
+      "立川市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "立川市保育協議会",
+    "abbr": "立川市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "立川市",
+    "direct_urls": [],
+    "search_queries": [
+      "立川市保育協議会 役員名簿",
+      "立川市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "八王子市私立幼稚園協会",
+    "abbr": "八王子市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "direct_urls": [],
+    "search_queries": [
+      "八王子市私立幼稚園協会 役員名簿",
+      "八王子市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "八王子市保育協議会",
+    "abbr": "八王子市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "direct_urls": [],
+    "search_queries": [
+      "八王子市保育協議会 役員名簿",
+      "八王子市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "武蔵野市私立幼稚園協会",
+    "abbr": "武蔵野市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "武蔵野市",
+    "direct_urls": [],
+    "search_queries": [
+      "武蔵野市私立幼稚園協会 役員名簿",
+      "武蔵野市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "武蔵野市保育協議会",
+    "abbr": "武蔵野市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "武蔵野市",
+    "direct_urls": [],
+    "search_queries": [
+      "武蔵野市保育協議会 役員名簿",
+      "武蔵野市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "三鷹市私立幼稚園協会",
+    "abbr": "三鷹市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "三鷹市",
+    "direct_urls": [],
+    "search_queries": [
+      "三鷹市私立幼稚園協会 役員名簿",
+      "三鷹市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "三鷹市保育協議会",
+    "abbr": "三鷹市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "三鷹市",
+    "direct_urls": [],
+    "search_queries": [
+      "三鷹市保育協議会 役員名簿",
+      "三鷹市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "府中市私立幼稚園協会",
+    "abbr": "府中市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "府中市",
+    "direct_urls": [],
+    "search_queries": [
+      "府中市私立幼稚園協会 役員名簿",
+      "府中市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "府中市保育協議会",
+    "abbr": "府中市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "府中市",
+    "direct_urls": [],
+    "search_queries": [
+      "府中市保育協議会 役員名簿",
+      "府中市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "調布市私立幼稚園協会",
+    "abbr": "調布市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "調布市",
+    "direct_urls": [],
+    "search_queries": [
+      "調布市私立幼稚園協会 役員名簿",
+      "調布市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "調布市保育協議会",
+    "abbr": "調布市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "調布市",
+    "direct_urls": [],
+    "search_queries": [
+      "調布市保育協議会 役員名簿",
+      "調布市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "町田市私立幼稚園協会",
+    "abbr": "町田市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "direct_urls": [],
+    "search_queries": [
+      "町田市私立幼稚園協会 役員名簿",
+      "町田市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "町田市保育協議会",
+    "abbr": "町田市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "direct_urls": [],
+    "search_queries": [
+      "町田市保育協議会 役員名簿",
+      "町田市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "小平市私立幼稚園協会",
+    "abbr": "小平市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "小平市",
+    "direct_urls": [],
+    "search_queries": [
+      "小平市私立幼稚園協会 役員名簿",
+      "小平市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "小平市保育協議会",
+    "abbr": "小平市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "小平市",
+    "direct_urls": [],
+    "search_queries": [
+      "小平市保育協議会 役員名簿",
+      "小平市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "日野市私立幼稚園協会",
+    "abbr": "日野市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "日野市",
+    "direct_urls": [],
+    "search_queries": [
+      "日野市私立幼稚園協会 役員名簿",
+      "日野市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "日野市保育協議会",
+    "abbr": "日野市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "日野市",
+    "direct_urls": [],
+    "search_queries": [
+      "日野市保育協議会 役員名簿",
+      "日野市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "西東京市私立幼稚園協会",
+    "abbr": "西東京市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "西東京市",
+    "direct_urls": [],
+    "search_queries": [
+      "西東京市私立幼稚園協会 役員名簿",
+      "西東京市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "西東京市保育協議会",
+    "abbr": "西東京市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "西東京市",
+    "direct_urls": [],
+    "search_queries": [
+      "西東京市保育協議会 役員名簿",
+      "西東京市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "東久留米市私立幼稚園協会",
+    "abbr": "東久留米市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "direct_urls": [],
+    "search_queries": [
+      "東久留米市私立幼稚園協会 役員名簿",
+      "東久留米市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "東久留米市保育協議会",
+    "abbr": "東久留米市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "direct_urls": [],
+    "search_queries": [
+      "東久留米市保育協議会 役員名簿",
+      "東久留米市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "清瀬市私立幼稚園協会",
+    "abbr": "清瀬市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "清瀬市",
+    "direct_urls": [],
+    "search_queries": [
+      "清瀬市私立幼稚園協会 役員名簿",
+      "清瀬市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "清瀬市保育協議会",
+    "abbr": "清瀬市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "清瀬市",
+    "direct_urls": [],
+    "search_queries": [
+      "清瀬市保育協議会 役員名簿",
+      "清瀬市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "小金井市私立幼稚園協会",
+    "abbr": "小金井市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "小金井市",
+    "direct_urls": [],
+    "search_queries": [
+      "小金井市私立幼稚園協会 役員名簿",
+      "小金井市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "小金井市保育協議会",
+    "abbr": "小金井市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "小金井市",
+    "direct_urls": [],
+    "search_queries": [
+      "小金井市保育協議会 役員名簿",
+      "小金井市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "国分寺市私立幼稚園協会",
+    "abbr": "国分寺市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "国分寺市",
+    "direct_urls": [],
+    "search_queries": [
+      "国分寺市私立幼稚園協会 役員名簿",
+      "国分寺市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "国分寺市保育協議会",
+    "abbr": "国分寺市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "国分寺市",
+    "direct_urls": [],
+    "search_queries": [
+      "国分寺市保育協議会 役員名簿",
+      "国分寺市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "国立市私立幼稚園協会",
+    "abbr": "国立市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "国立市",
+    "direct_urls": [],
+    "search_queries": [
+      "国立市私立幼稚園協会 役員名簿",
+      "国立市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "国立市保育協議会",
+    "abbr": "国立市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "国立市",
+    "direct_urls": [],
+    "search_queries": [
+      "国立市保育協議会 役員名簿",
+      "国立市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "福生市私立幼稚園協会",
+    "abbr": "福生市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "福生市",
+    "direct_urls": [],
+    "search_queries": [
+      "福生市私立幼稚園協会 役員名簿",
+      "福生市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "福生市保育協議会",
+    "abbr": "福生市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "福生市",
+    "direct_urls": [],
+    "search_queries": [
+      "福生市保育協議会 役員名簿",
+      "福生市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "東村山市私立幼稚園協会",
+    "abbr": "東村山市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "東村山市",
+    "direct_urls": [],
+    "search_queries": [
+      "東村山市私立幼稚園協会 役員名簿",
+      "東村山市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "東村山市保育協議会",
+    "abbr": "東村山市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "東村山市",
+    "direct_urls": [],
+    "search_queries": [
+      "東村山市保育協議会 役員名簿",
+      "東村山市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "武蔵村山市私立幼稚園協会",
+    "abbr": "武蔵村山市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "武蔵村山市",
+    "direct_urls": [],
+    "search_queries": [
+      "武蔵村山市私立幼稚園協会 役員名簿",
+      "武蔵村山市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "武蔵村山市保育協議会",
+    "abbr": "武蔵村山市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "武蔵村山市",
+    "direct_urls": [],
+    "search_queries": [
+      "武蔵村山市保育協議会 役員名簿",
+      "武蔵村山市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "多摩市私立幼稚園協会",
+    "abbr": "多摩市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "多摩市",
+    "direct_urls": [],
+    "search_queries": [
+      "多摩市私立幼稚園協会 役員名簿",
+      "多摩市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "多摩市保育協議会",
+    "abbr": "多摩市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "多摩市",
+    "direct_urls": [],
+    "search_queries": [
+      "多摩市保育協議会 役員名簿",
+      "多摩市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "稲城市私立幼稚園協会",
+    "abbr": "稲城市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "稲城市",
+    "direct_urls": [],
+    "search_queries": [
+      "稲城市私立幼稚園協会 役員名簿",
+      "稲城市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "稲城市保育協議会",
+    "abbr": "稲城市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "稲城市",
+    "direct_urls": [],
+    "search_queries": [
+      "稲城市保育協議会 役員名簿",
+      "稲城市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "羽村市私立幼稚園協会",
+    "abbr": "羽村市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "羽村市",
+    "direct_urls": [],
+    "search_queries": [
+      "羽村市私立幼稚園協会 役員名簿",
+      "羽村市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "羽村市保育協議会",
+    "abbr": "羽村市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "羽村市",
+    "direct_urls": [],
+    "search_queries": [
+      "羽村市保育協議会 役員名簿",
+      "羽村市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "あきる野市私立幼稚園協会",
+    "abbr": "あきる野市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "あきる野市",
+    "direct_urls": [],
+    "search_queries": [
+      "あきる野市私立幼稚園協会 役員名簿",
+      "あきる野市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "あきる野市保育協議会",
+    "abbr": "あきる野市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "あきる野市",
+    "direct_urls": [],
+    "search_queries": [
+      "あきる野市保育協議会 役員名簿",
+      "あきる野市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "狛江市私立幼稚園協会",
+    "abbr": "狛江市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "東京都",
+    "city": "狛江市",
+    "direct_urls": [],
+    "search_queries": [
+      "狛江市私立幼稚園協会 役員名簿",
+      "狛江市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "狛江市保育協議会",
+    "abbr": "狛江市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "東京都",
+    "city": "狛江市",
+    "direct_urls": [],
+    "search_queries": [
+      "狛江市保育協議会 役員名簿",
+      "狛江市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "藤沢市私立幼稚園協会",
+    "abbr": "藤沢市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "神奈川県",
+    "city": "藤沢市",
+    "direct_urls": [],
+    "search_queries": [
+      "藤沢市私立幼稚園協会 役員名簿",
+      "藤沢市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "藤沢市保育協議会",
+    "abbr": "藤沢市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "神奈川県",
+    "city": "藤沢市",
+    "direct_urls": [],
+    "search_queries": [
+      "藤沢市保育協議会 役員名簿",
+      "藤沢市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "横須賀市私立幼稚園協会",
+    "abbr": "横須賀市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "神奈川県",
+    "city": "横須賀市",
+    "direct_urls": [],
+    "search_queries": [
+      "横須賀市私立幼稚園協会 役員名簿",
+      "横須賀市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "横須賀市保育協議会",
+    "abbr": "横須賀市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "神奈川県",
+    "city": "横須賀市",
+    "direct_urls": [],
+    "search_queries": [
+      "横須賀市保育協議会 役員名簿",
+      "横須賀市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "平塚市私立幼稚園協会",
+    "abbr": "平塚市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "神奈川県",
+    "city": "平塚市",
+    "direct_urls": [],
+    "search_queries": [
+      "平塚市私立幼稚園協会 役員名簿",
+      "平塚市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "平塚市保育協議会",
+    "abbr": "平塚市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "神奈川県",
+    "city": "平塚市",
+    "direct_urls": [],
+    "search_queries": [
+      "平塚市保育協議会 役員名簿",
+      "平塚市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "小田原市私立幼稚園協会",
+    "abbr": "小田原市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "direct_urls": [],
+    "search_queries": [
+      "小田原市私立幼稚園協会 役員名簿",
+      "小田原市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "小田原市保育協議会",
+    "abbr": "小田原市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "direct_urls": [],
+    "search_queries": [
+      "小田原市保育協議会 役員名簿",
+      "小田原市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "茅ヶ崎市私立幼稚園協会",
+    "abbr": "茅ヶ崎市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "神奈川県",
+    "city": "茅ヶ崎市",
+    "direct_urls": [],
+    "search_queries": [
+      "茅ヶ崎市私立幼稚園協会 役員名簿",
+      "茅ヶ崎市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "茅ヶ崎市保育協議会",
+    "abbr": "茅ヶ崎市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "神奈川県",
+    "city": "茅ヶ崎市",
+    "direct_urls": [],
+    "search_queries": [
+      "茅ヶ崎市保育協議会 役員名簿",
+      "茅ヶ崎市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "鎌倉市私立幼稚園協会",
+    "abbr": "鎌倉市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "神奈川県",
+    "city": "鎌倉市",
+    "direct_urls": [],
+    "search_queries": [
+      "鎌倉市私立幼稚園協会 役員名簿",
+      "鎌倉市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "鎌倉市保育協議会",
+    "abbr": "鎌倉市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "神奈川県",
+    "city": "鎌倉市",
+    "direct_urls": [],
+    "search_queries": [
+      "鎌倉市保育協議会 役員名簿",
+      "鎌倉市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "厚木市私立幼稚園協会",
+    "abbr": "厚木市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "direct_urls": [],
+    "search_queries": [
+      "厚木市私立幼稚園協会 役員名簿",
+      "厚木市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "厚木市保育協議会",
+    "abbr": "厚木市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "direct_urls": [],
+    "search_queries": [
+      "厚木市保育協議会 役員名簿",
+      "厚木市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "大和市私立幼稚園協会",
+    "abbr": "大和市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "神奈川県",
+    "city": "大和市",
+    "direct_urls": [],
+    "search_queries": [
+      "大和市私立幼稚園協会 役員名簿",
+      "大和市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "大和市保育協議会",
+    "abbr": "大和市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "神奈川県",
+    "city": "大和市",
+    "direct_urls": [],
+    "search_queries": [
+      "大和市保育協議会 役員名簿",
+      "大和市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "海老名市私立幼稚園協会",
+    "abbr": "海老名市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "神奈川県",
+    "city": "海老名市",
+    "direct_urls": [],
+    "search_queries": [
+      "海老名市私立幼稚園協会 役員名簿",
+      "海老名市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "海老名市保育協議会",
+    "abbr": "海老名市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "神奈川県",
+    "city": "海老名市",
+    "direct_urls": [],
+    "search_queries": [
+      "海老名市保育協議会 役員名簿",
+      "海老名市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "座間市私立幼稚園協会",
+    "abbr": "座間市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "神奈川県",
+    "city": "座間市",
+    "direct_urls": [],
+    "search_queries": [
+      "座間市私立幼稚園協会 役員名簿",
+      "座間市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "座間市保育協議会",
+    "abbr": "座間市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "神奈川県",
+    "city": "座間市",
+    "direct_urls": [],
+    "search_queries": [
+      "座間市保育協議会 役員名簿",
+      "座間市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "綾瀬市私立幼稚園協会",
+    "abbr": "綾瀬市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "神奈川県",
+    "city": "綾瀬市",
+    "direct_urls": [],
+    "search_queries": [
+      "綾瀬市私立幼稚園協会 役員名簿",
+      "綾瀬市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "綾瀬市保育協議会",
+    "abbr": "綾瀬市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "神奈川県",
+    "city": "綾瀬市",
+    "direct_urls": [],
+    "search_queries": [
+      "綾瀬市保育協議会 役員名簿",
+      "綾瀬市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "秦野市私立幼稚園協会",
+    "abbr": "秦野市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "神奈川県",
+    "city": "秦野市",
+    "direct_urls": [],
+    "search_queries": [
+      "秦野市私立幼稚園協会 役員名簿",
+      "秦野市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "秦野市保育協議会",
+    "abbr": "秦野市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "神奈川県",
+    "city": "秦野市",
+    "direct_urls": [],
+    "search_queries": [
+      "秦野市保育協議会 役員名簿",
+      "秦野市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "伊勢原市私立幼稚園協会",
+    "abbr": "伊勢原市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "神奈川県",
+    "city": "伊勢原市",
+    "direct_urls": [],
+    "search_queries": [
+      "伊勢原市私立幼稚園協会 役員名簿",
+      "伊勢原市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "伊勢原市保育協議会",
+    "abbr": "伊勢原市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "神奈川県",
+    "city": "伊勢原市",
+    "direct_urls": [],
+    "search_queries": [
+      "伊勢原市保育協議会 役員名簿",
+      "伊勢原市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "船橋市私立幼稚園協会",
+    "abbr": "船橋市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "direct_urls": [],
+    "search_queries": [
+      "船橋市私立幼稚園協会 役員名簿",
+      "船橋市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "船橋市保育協議会",
+    "abbr": "船橋市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "direct_urls": [],
+    "search_queries": [
+      "船橋市保育協議会 役員名簿",
+      "船橋市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "市川市私立幼稚園協会",
+    "abbr": "市川市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "千葉県",
+    "city": "市川市",
+    "direct_urls": [],
+    "search_queries": [
+      "市川市私立幼稚園協会 役員名簿",
+      "市川市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "市川市保育協議会",
+    "abbr": "市川市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "千葉県",
+    "city": "市川市",
+    "direct_urls": [],
+    "search_queries": [
+      "市川市保育協議会 役員名簿",
+      "市川市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "松戸市私立幼稚園協会",
+    "abbr": "松戸市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "千葉県",
+    "city": "松戸市",
+    "direct_urls": [],
+    "search_queries": [
+      "松戸市私立幼稚園協会 役員名簿",
+      "松戸市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "松戸市保育協議会",
+    "abbr": "松戸市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "千葉県",
+    "city": "松戸市",
+    "direct_urls": [],
+    "search_queries": [
+      "松戸市保育協議会 役員名簿",
+      "松戸市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "柏市私立幼稚園協会",
+    "abbr": "柏市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "千葉県",
+    "city": "柏市",
+    "direct_urls": [],
+    "search_queries": [
+      "柏市私立幼稚園協会 役員名簿",
+      "柏市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "柏市保育協議会",
+    "abbr": "柏市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "千葉県",
+    "city": "柏市",
+    "direct_urls": [],
+    "search_queries": [
+      "柏市保育協議会 役員名簿",
+      "柏市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "流山市私立幼稚園協会",
+    "abbr": "流山市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "千葉県",
+    "city": "流山市",
+    "direct_urls": [],
+    "search_queries": [
+      "流山市私立幼稚園協会 役員名簿",
+      "流山市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "流山市保育協議会",
+    "abbr": "流山市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "千葉県",
+    "city": "流山市",
+    "direct_urls": [],
+    "search_queries": [
+      "流山市保育協議会 役員名簿",
+      "流山市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "浦安市私立幼稚園協会",
+    "abbr": "浦安市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "千葉県",
+    "city": "浦安市",
+    "direct_urls": [],
+    "search_queries": [
+      "浦安市私立幼稚園協会 役員名簿",
+      "浦安市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "浦安市保育協議会",
+    "abbr": "浦安市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "千葉県",
+    "city": "浦安市",
+    "direct_urls": [],
+    "search_queries": [
+      "浦安市保育協議会 役員名簿",
+      "浦安市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "習志野市私立幼稚園協会",
+    "abbr": "習志野市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "千葉県",
+    "city": "習志野市",
+    "direct_urls": [],
+    "search_queries": [
+      "習志野市私立幼稚園協会 役員名簿",
+      "習志野市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "習志野市保育協議会",
+    "abbr": "習志野市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "千葉県",
+    "city": "習志野市",
+    "direct_urls": [],
+    "search_queries": [
+      "習志野市保育協議会 役員名簿",
+      "習志野市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "市原市私立幼稚園協会",
+    "abbr": "市原市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "千葉県",
+    "city": "市原市",
+    "direct_urls": [],
+    "search_queries": [
+      "市原市私立幼稚園協会 役員名簿",
+      "市原市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "市原市保育協議会",
+    "abbr": "市原市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "千葉県",
+    "city": "市原市",
+    "direct_urls": [],
+    "search_queries": [
+      "市原市保育協議会 役員名簿",
+      "市原市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "我孫子市私立幼稚園協会",
+    "abbr": "我孫子市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "千葉県",
+    "city": "我孫子市",
+    "direct_urls": [],
+    "search_queries": [
+      "我孫子市私立幼稚園協会 役員名簿",
+      "我孫子市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "我孫子市保育協議会",
+    "abbr": "我孫子市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "千葉県",
+    "city": "我孫子市",
+    "direct_urls": [],
+    "search_queries": [
+      "我孫子市保育協議会 役員名簿",
+      "我孫子市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "野田市私立幼稚園協会",
+    "abbr": "野田市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "direct_urls": [],
+    "search_queries": [
+      "野田市私立幼稚園協会 役員名簿",
+      "野田市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "野田市保育協議会",
+    "abbr": "野田市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "千葉県",
+    "city": "野田市",
+    "direct_urls": [],
+    "search_queries": [
+      "野田市保育協議会 役員名簿",
+      "野田市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "八千代市私立幼稚園協会",
+    "abbr": "八千代市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "direct_urls": [],
+    "search_queries": [
+      "八千代市私立幼稚園協会 役員名簿",
+      "八千代市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "八千代市保育協議会",
+    "abbr": "八千代市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "direct_urls": [],
+    "search_queries": [
+      "八千代市保育協議会 役員名簿",
+      "八千代市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "鎌ヶ谷市私立幼稚園協会",
+    "abbr": "鎌ヶ谷市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "千葉県",
+    "city": "鎌ヶ谷市",
+    "direct_urls": [],
+    "search_queries": [
+      "鎌ヶ谷市私立幼稚園協会 役員名簿",
+      "鎌ヶ谷市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "鎌ヶ谷市保育協議会",
+    "abbr": "鎌ヶ谷市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "千葉県",
+    "city": "鎌ヶ谷市",
+    "direct_urls": [],
+    "search_queries": [
+      "鎌ヶ谷市保育協議会 役員名簿",
+      "鎌ヶ谷市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "越谷市私立幼稚園協会",
+    "abbr": "越谷市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "埼玉県",
+    "city": "越谷市",
+    "direct_urls": [],
+    "search_queries": [
+      "越谷市私立幼稚園協会 役員名簿",
+      "越谷市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "越谷市保育協議会",
+    "abbr": "越谷市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "埼玉県",
+    "city": "越谷市",
+    "direct_urls": [],
+    "search_queries": [
+      "越谷市保育協議会 役員名簿",
+      "越谷市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "所沢市私立幼稚園協会",
+    "abbr": "所沢市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "direct_urls": [],
+    "search_queries": [
+      "所沢市私立幼稚園協会 役員名簿",
+      "所沢市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "所沢市保育協議会",
+    "abbr": "所沢市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "direct_urls": [],
+    "search_queries": [
+      "所沢市保育協議会 役員名簿",
+      "所沢市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "川越市私立幼稚園協会",
+    "abbr": "川越市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "埼玉県",
+    "city": "川越市",
+    "direct_urls": [],
+    "search_queries": [
+      "川越市私立幼稚園協会 役員名簿",
+      "川越市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "川越市保育協議会",
+    "abbr": "川越市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "埼玉県",
+    "city": "川越市",
+    "direct_urls": [],
+    "search_queries": [
+      "川越市保育協議会 役員名簿",
+      "川越市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "熊谷市私立幼稚園協会",
+    "abbr": "熊谷市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "埼玉県",
+    "city": "熊谷市",
+    "direct_urls": [],
+    "search_queries": [
+      "熊谷市私立幼稚園協会 役員名簿",
+      "熊谷市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "熊谷市保育協議会",
+    "abbr": "熊谷市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "埼玉県",
+    "city": "熊谷市",
+    "direct_urls": [],
+    "search_queries": [
+      "熊谷市保育協議会 役員名簿",
+      "熊谷市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "草加市私立幼稚園協会",
+    "abbr": "草加市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "direct_urls": [],
+    "search_queries": [
+      "草加市私立幼稚園協会 役員名簿",
+      "草加市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "草加市保育協議会",
+    "abbr": "草加市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "埼玉県",
+    "city": "草加市",
+    "direct_urls": [],
+    "search_queries": [
+      "草加市保育協議会 役員名簿",
+      "草加市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "春日部市私立幼稚園協会",
+    "abbr": "春日部市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "direct_urls": [],
+    "search_queries": [
+      "春日部市私立幼稚園協会 役員名簿",
+      "春日部市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "春日部市保育協議会",
+    "abbr": "春日部市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "direct_urls": [],
+    "search_queries": [
+      "春日部市保育協議会 役員名簿",
+      "春日部市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "上尾市私立幼稚園協会",
+    "abbr": "上尾市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "direct_urls": [],
+    "search_queries": [
+      "上尾市私立幼稚園協会 役員名簿",
+      "上尾市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "上尾市保育協議会",
+    "abbr": "上尾市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "埼玉県",
+    "city": "上尾市",
+    "direct_urls": [],
+    "search_queries": [
+      "上尾市保育協議会 役員名簿",
+      "上尾市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "戸田市私立幼稚園協会",
+    "abbr": "戸田市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "埼玉県",
+    "city": "戸田市",
+    "direct_urls": [],
+    "search_queries": [
+      "戸田市私立幼稚園協会 役員名簿",
+      "戸田市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "戸田市保育協議会",
+    "abbr": "戸田市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "埼玉県",
+    "city": "戸田市",
+    "direct_urls": [],
+    "search_queries": [
+      "戸田市保育協議会 役員名簿",
+      "戸田市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "入間市私立幼稚園協会",
+    "abbr": "入間市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "埼玉県",
+    "city": "入間市",
+    "direct_urls": [],
+    "search_queries": [
+      "入間市私立幼稚園協会 役員名簿",
+      "入間市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "入間市保育協議会",
+    "abbr": "入間市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "埼玉県",
+    "city": "入間市",
+    "direct_urls": [],
+    "search_queries": [
+      "入間市保育協議会 役員名簿",
+      "入間市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "朝霞市私立幼稚園協会",
+    "abbr": "朝霞市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "埼玉県",
+    "city": "朝霞市",
+    "direct_urls": [],
+    "search_queries": [
+      "朝霞市私立幼稚園協会 役員名簿",
+      "朝霞市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "朝霞市保育協議会",
+    "abbr": "朝霞市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "埼玉県",
+    "city": "朝霞市",
+    "direct_urls": [],
+    "search_queries": [
+      "朝霞市保育協議会 役員名簿",
+      "朝霞市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "志木市私立幼稚園協会",
+    "abbr": "志木市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "埼玉県",
+    "city": "志木市",
+    "direct_urls": [],
+    "search_queries": [
+      "志木市私立幼稚園協会 役員名簿",
+      "志木市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "志木市保育協議会",
+    "abbr": "志木市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "埼玉県",
+    "city": "志木市",
+    "direct_urls": [],
+    "search_queries": [
+      "志木市保育協議会 役員名簿",
+      "志木市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "和光市私立幼稚園協会",
+    "abbr": "和光市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "埼玉県",
+    "city": "和光市",
+    "direct_urls": [],
+    "search_queries": [
+      "和光市私立幼稚園協会 役員名簿",
+      "和光市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "和光市保育協議会",
+    "abbr": "和光市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "埼玉県",
+    "city": "和光市",
+    "direct_urls": [],
+    "search_queries": [
+      "和光市保育協議会 役員名簿",
+      "和光市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "新座市私立幼稚園協会",
+    "abbr": "新座市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "埼玉県",
+    "city": "新座市",
+    "direct_urls": [],
+    "search_queries": [
+      "新座市私立幼稚園協会 役員名簿",
+      "新座市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "新座市保育協議会",
+    "abbr": "新座市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "埼玉県",
+    "city": "新座市",
+    "direct_urls": [],
+    "search_queries": [
+      "新座市保育協議会 役員名簿",
+      "新座市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "富士見市私立幼稚園協会",
+    "abbr": "富士見市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "埼玉県",
+    "city": "富士見市",
+    "direct_urls": [],
+    "search_queries": [
+      "富士見市私立幼稚園協会 役員名簿",
+      "富士見市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "富士見市保育協議会",
+    "abbr": "富士見市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "埼玉県",
+    "city": "富士見市",
+    "direct_urls": [],
+    "search_queries": [
+      "富士見市保育協議会 役員名簿",
+      "富士見市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "ふじみ野市私立幼稚園協会",
+    "abbr": "ふじみ野市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "埼玉県",
+    "city": "ふじみ野市",
+    "direct_urls": [],
+    "search_queries": [
+      "ふじみ野市私立幼稚園協会 役員名簿",
+      "ふじみ野市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "ふじみ野市保育協議会",
+    "abbr": "ふじみ野市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "埼玉県",
+    "city": "ふじみ野市",
+    "direct_urls": [],
+    "search_queries": [
+      "ふじみ野市保育協議会 役員名簿",
+      "ふじみ野市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "三郷市私立幼稚園協会",
+    "abbr": "三郷市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "埼玉県",
+    "city": "三郷市",
+    "direct_urls": [],
+    "search_queries": [
+      "三郷市私立幼稚園協会 役員名簿",
+      "三郷市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "三郷市保育協議会",
+    "abbr": "三郷市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "埼玉県",
+    "city": "三郷市",
+    "direct_urls": [],
+    "search_queries": [
+      "三郷市保育協議会 役員名簿",
+      "三郷市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "八潮市私立幼稚園協会",
+    "abbr": "八潮市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "埼玉県",
+    "city": "八潮市",
+    "direct_urls": [],
+    "search_queries": [
+      "八潮市私立幼稚園協会 役員名簿",
+      "八潮市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "八潮市保育協議会",
+    "abbr": "八潮市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "埼玉県",
+    "city": "八潮市",
+    "direct_urls": [],
+    "search_queries": [
+      "八潮市保育協議会 役員名簿",
+      "八潮市保育協議会 理事 会長"
+    ]
+  },
+  {
+    "name": "吉川市私立幼稚園協会",
+    "abbr": "吉川市幼協",
+    "tag": null,
+    "level": "city",
+    "domain": "幼稚園",
+    "prefecture": "埼玉県",
+    "city": "吉川市",
+    "direct_urls": [],
+    "search_queries": [
+      "吉川市私立幼稚園協会 役員名簿",
+      "吉川市私立幼稚園協会 理事 会長"
+    ]
+  },
+  {
+    "name": "吉川市保育協議会",
+    "abbr": "吉川市保育協",
+    "tag": null,
+    "level": "city",
+    "domain": "保育園",
+    "prefecture": "埼玉県",
+    "city": "吉川市",
+    "direct_urls": [],
+    "search_queries": [
+      "吉川市保育協議会 役員名簿",
+      "吉川市保育協議会 理事 会長"
+    ]
+  }
+]

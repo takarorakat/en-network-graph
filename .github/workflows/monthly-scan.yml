@@ -1,0 +1,51 @@
+name: Monthly Network Scan
+
+on:
+  schedule:
+    - cron: '3 0 1 * *'  # 毎月1日 9:03 JST (UTC 0:03)
+  workflow_dispatch:      # 手動実行も可能
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 ddgs lxml
+
+      - name: Run scan (national level)
+        run: python3 scripts/scan_network.py --level national
+
+      - name: Commit scan result
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add scan_results/
+          git diff --staged --quiet || git commit -m "scan: monthly network scan $(date +%Y-%m-%d)"
+          git push
+
+      - name: Notify Slack
+        if: always()
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: |
+          RESULT_FILE=$(ls scan_results/scan_result_*.txt 2>/dev/null | tail -1)
+          TODAY=$(date +%Y%m%d)
+          if [ -n "$RESULT_FILE" ]; then
+            LINE_COUNT=$(wc -l < "$RESULT_FILE" | tr -d ' ')
+            curl -s -X POST -H 'Content-type: application/json' \
+              --data "{\"text\":\"🔍 *園関係ネットワーク 月次スキャン完了*\n実行日: $(date +%Y-%m-%d)\nファイル: \`scan_result_${TODAY}.txt\`（${LINE_COUNT}行）\n\nMacでClaude Codeに依頼してください:\n\`\`\`scan_result_${TODAY}.txt を読んで反映して\`\`\`\"}" \
+              "$SLACK_WEBHOOK_URL"
+          else
+            curl -s -X POST -H 'Content-type: application/json' \
+              --data '{"text":"⚠️ 園関係ネットワーク 月次スキャン: 結果ファイルが生成されませんでした（DuckDuckGoのブロック等を確認）"}' \
+              "$SLACK_WEBHOOK_URL"
+          fi
