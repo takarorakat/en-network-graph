@@ -31,11 +31,14 @@ jobs:
       - name: Scan city (264団体)
         run: python3 scripts/scan_network.py --level city
 
-      - name: Commit scan results
+      - name: Generate URL candidates
+        run: python3 scripts/update_direct_urls.py $(date +%Y%m%d)
+
+      - name: Commit scan results and URL candidates
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add scan_results/
+          git add scan_results/ url_candidates/
           git diff --staged --quiet || git commit -m "scan: monthly network scan $(date +%Y-%m-%d)"
           git push
 
@@ -48,6 +51,7 @@ jobs:
           NATIONAL=$(wc -l < "scan_results/scan_result_${TODAY}_national.txt" 2>/dev/null | tr -d ' ')
           PREF=$(wc -l < "scan_results/scan_result_${TODAY}_prefecture.txt" 2>/dev/null | tr -d ' ')
           CITY=$(wc -l < "scan_results/scan_result_${TODAY}_city.txt" 2>/dev/null | tr -d ' ')
+          URL_COUNT=$(python3 -c "import json,pathlib; f=pathlib.Path('url_candidates/url_candidates_${TODAY}.json'); print(len(json.loads(f.read_text())) if f.exists() else 0)")
           curl -s -X POST -H 'Content-type: application/json' \
-            --data "{\"text\":\"🔍 *園関係ネットワーク 月次スキャン完了*\n実行日: $(date +%Y-%m-%d)\n・全国: \`scan_result_${TODAY}_national.txt\`（${NATIONAL}行）\n・都道府県: \`scan_result_${TODAY}_prefecture.txt\`（${PREF}行）\n・市区町村: \`scan_result_${TODAY}_city.txt\`（${CITY}行）\n\nMacでClaude Codeに依頼:\n\`\`\`scan_result_${TODAY}_national.txt と _prefecture.txt と _city.txt を読んで反映して\`\`\`\"}" \
+            --data "{\"text\":\"🔍 *園関係ネットワーク 月次スキャン完了*\n実行日: $(date +%Y-%m-%d)\n・全国: ${NATIONAL}行 / 都道府県: ${PREF}行 / 市区町村: ${CITY}行\n・URL追加候補: *${URL_COUNT}件*\n\nMacでClaude Codeに依頼:\n① \`scan_result_${TODAY}_national.txt と _prefecture.txt と _city.txt を読んで反映して\`\n② \`url_candidates_${TODAY}.json を確認して追加して\`\"}" \
             "$SLACK_WEBHOOK_URL"
