@@ -41,6 +41,9 @@
     "search_queries": [
       "全国私立保育連盟 役員",
       "全国私立保育連盟 理事 会長"
+    ],
+    "direct_urls": [
+      "https://www.zenshihoren.or.jp/aboutus/topics_article.html?id=357"
     ]
   },
   {
@@ -63,6 +66,10 @@
     "search_queries": [
       "日本こども育成協議会 役員",
       "日本こども育成協議会 理事 会長"
+    ],
+    "direct_urls": [
+      "https://www.nihon-kodomo.jp/about/overview.html",
+      "https://www.nihon-kodomo.jp/about/index.html"
     ]
   },
   {
@@ -74,6 +81,9 @@
     "search_queries": [
       "全国小規模保育協議会 役員",
       "全国小規模保育協議会 理事 会長"
+    ],
+    "direct_urls": [
+      "https://syokibohoiku.or.jp/aboutus"
     ]
   },
   {
@@ -253,6 +263,9 @@
     "search_queries": [
       "愛知県私立保育園連盟 役員名簿",
       "愛知県私立保育園連盟 理事 会長"
+    ],
+    "direct_urls": [
+      "https://aichishiyo.or.jp/cat-about/greeting/"
     ]
   },
   {
@@ -297,6 +310,9 @@
     "search_queries": [
       "横浜市幼稚園協会 役員名簿",
       "横浜市幼稚園協会 理事 会長"
+    ],
+    "direct_urls": [
+      "https://kids-yokohama.or.jp/about-association/greetings.html"
     ]
   },
   {
@@ -341,6 +357,9 @@
     "search_queries": [
       "さいたま市私立保育園協会 役員名簿",
       "さいたま市私立保育園協会 理事 会長"
+    ],
+    "direct_urls": [
+      "https://saitama-hoiku.or.jp/overview/"
     ]
   },
   {
@@ -374,6 +393,9 @@
     "search_queries": [
       "西宮市私立保育協会 役員名簿",
       "西宮市私立保育協会 理事 会長"
+    ],
+    "direct_urls": [
+      "https://saicity-kinder.jp/greeting/"
     ]
   },
   {
@@ -396,6 +418,9 @@
     "search_queries": [
       "全国企業主導型保育事業連合会 役員",
       "全国企業主導型保育事業連合会 理事 会長"
+    ],
+    "direct_urls": [
+      "https://kigyousyudougata-hoiku.net/about/message/"
     ]
   },
   {
@@ -544,7 +569,9 @@
     "level": "prefecture",
     "domain": "こども園",
     "prefecture": "茨城県",
-    "direct_urls": [],
+    "direct_urls": [
+      "https://www.soyoken.com/member/ibaraki/"
+    ],
     "search_queries": [
       "茨城県認定こども園協会 役員名簿",
       "茨城県認定こども園協会 理事 会長"
@@ -583,7 +610,9 @@
     "level": "prefecture",
     "domain": "こども園",
     "prefecture": "群馬県",
-    "direct_urls": [],
+    "direct_urls": [
+      "https://kodomoenkyokai.or.jp/organization"
+    ],
     "search_queries": [
       "群馬県認定こども園協会 役員名簿",
       "群馬県認定こども園協会 理事 会長"
@@ -609,7 +638,9 @@
     "level": "prefecture",
     "domain": "こども園",
     "prefecture": "山梨県",
-    "direct_urls": [],
+    "direct_urls": [
+      "https://www.kodomo-kai.or.jp/yamanashi/yakuinnmeibo/"
+    ],
     "search_queries": [
       "山梨県認定こども園協会 役員名簿",
       "山梨県認定こども園協会 理事 会長"
@@ -766,7 +797,9 @@
     "level": "prefecture",
     "domain": "保育園",
     "prefecture": "宮城県",
-    "direct_urls": [],
+    "direct_urls": [
+      "https://www.pref.miyagi.jp/site/ruruburu/ruruburuyakuin.html"
+    ],
     "search_queries": [
       "宮城県保育協議会 役員名簿",
       "宮城県保育協議会 理事 会長"
@@ -779,7 +812,9 @@
     "level": "prefecture",
     "domain": "こども園",
     "prefecture": "宮城県",
-    "direct_urls": [],
+    "direct_urls": [
+      "https://miyaho.site/about/"
+    ],
     "search_queries": [
       "宮城県認定こども園協会 役員名簿",
       "宮城県認定こども園協会 理事 会長"
@@ -818,7 +853,9 @@
     "level": "prefecture",
     "domain": "こども園",
     "prefecture": "秋田県",
-    "direct_urls": [],
+    "direct_urls": [
+      "https://www.akitakenho.jp/about.html"
+    ],
     "search_queries": [
       "秋田県認定こども園協会 役員名簿",
       "秋田県認定こども園協会 理事 会長"
@@ -964,7 +1001,9 @@
     "domain": "こども園",
     "prefecture": "北海道",
     "city": "札幌市",
-    "direct_urls": [],
+    "direct_urls": [
+      "https://www.s-youchien.or.jp/about/index.html"
+    ],
     "search_queries": [
       "札幌市認定こども園協会 役員名簿",
       "札幌市認定こども園協会 理事 会長"
@@ -1188,7 +1227,9 @@
     "domain": "幼稚園",
     "prefecture": "新潟県",
     "city": "新潟市",
-    "direct_urls": [],
+    "direct_urls": [
+      "https://www.marinepia.or.jp/kaiyoukasen/outline/outline_hyougimeibo.html"
+    ],
     "search_queries": [
       "新潟市私立幼稚園協会 役員名簿",
       "新潟市私立幼稚園協会 理事 会長"
@@ -1230,7 +1271,9 @@
     "domain": "幼稚園",
     "prefecture": "静岡県",
     "city": "静岡市",
-    "direct_urls": [],
+    "direct_urls": [
+      "https://www.shizuoka-shihoren.com/about"
+    ],
     "search_queries": [
       "静岡市私立幼稚園協会 役員名簿",
       "静岡市私立幼稚園協会 理事 会長"
@@ -1244,7 +1287,9 @@
     "domain": "保育園",
     "prefecture": "静岡県",
     "city": "静岡市",
-    "direct_urls": [],
+    "direct_urls": [
+      "https://www.shizuoka-shigaku.net/association/organization/役員名簿/"
+    ],
     "search_queries": [
       "静岡市保育協議会 役員名簿",
       "静岡市保育協議会 理事 会長"
@@ -1272,7 +1317,9 @@
     "domain": "幼稚園",
     "prefecture": "静岡県",
     "city": "浜松市",
-    "direct_urls": [],
+    "direct_urls": [
+      "https://hamasiyou.com/about/"
+    ],
     "search_queries": [
       "浜松市私立幼稚園協会 役員名簿",
       "浜松市私立幼稚園協会 理事 会長"
@@ -1356,7 +1403,9 @@
     "domain": "保育園",
     "prefecture": "京都府",
     "city": "京都市",
-    "direct_urls": [],
+    "direct_urls": [
+      "https://www.kyoshakyo.or.jp/about/disclosure/teikan/"
+    ],
     "search_queries": [
       "京都市保育協議会 役員名簿",
       "京都市保育協議会 理事 会長"
@@ -2434,7 +2483,9 @@
     "domain": "幼稚園",
     "prefecture": "東京都",
     "city": "板橋区",
-    "direct_urls": [],
+    "direct_urls": [
+      "https://www.itabashi-kids.jp/aboutus/"
+    ],
     "search_queries": [
       "板橋区私立幼稚園協会 役員名簿",
       "板橋区私立幼稚園協会 理事 会長"
@@ -2714,7 +2765,9 @@
     "domain": "保育園",
     "prefecture": "東京都",
     "city": "武蔵野市",
-    "direct_urls": [],
+    "direct_urls": [
+      "https://www.numaren.net/aboutus/yakuin"
+    ],
     "search_queries": [
       "武蔵野市保育協議会 役員名簿",
       "武蔵野市保育協議会 理事 会長"
@@ -2798,7 +2851,9 @@
     "domain": "保育園",
     "prefecture": "東京都",
     "city": "調布市",
-    "direct_urls": [],
+    "direct_urls": [
+      "https://chofu-youchien.jp/aboutus/"
+    ],
     "search_queries": [
       "調布市保育協議会 役員名簿",
       "調布市保育協議会 理事 会長"
@@ -3582,7 +3637,9 @@
     "domain": "保育園",
     "prefecture": "神奈川県",
     "city": "綾瀬市",
-    "direct_urls": [],
+    "direct_urls": [
+      "https://www.ayase-shakyo.or.jp/organization/"
+    ],
     "search_queries": [
       "綾瀬市保育協議会 役員名簿",
       "綾瀬市保育協議会 理事 会長"
@@ -3708,7 +3765,9 @@
     "domain": "幼稚園",
     "prefecture": "千葉県",
     "city": "松戸市",
-    "direct_urls": [],
+    "direct_urls": [
+      "https://matsudo.ne.jp/about-rengokai/"
+    ],
     "search_queries": [
       "松戸市私立幼稚園協会 役員名簿",
       "松戸市私立幼稚園協会 理事 会長"
@@ -4142,7 +4201,9 @@
     "domain": "保育園",
     "prefecture": "埼玉県",
     "city": "春日部市",
-    "direct_urls": [],
+    "direct_urls": [
+      "https://kasukabeshishakyo.or.jp/about/teikan-kiyaku/officers/"
+    ],
     "search_queries": [
       "春日部市保育協議会 役員名簿",
       "春日部市保育協議会 理事 会長"
@@ -4184,7 +4245,9 @@
     "domain": "幼稚園",
     "prefecture": "埼玉県",
     "city": "戸田市",
-    "direct_urls": [],
+    "direct_urls": [
+      "https://todahoiku.pya.jp/member.html"
+    ],
     "search_queries": [
       "戸田市私立幼稚園協会 役員名簿",
       "戸田市私立幼稚園協会 理事 会長"
@@ -4254,7 +4317,9 @@
     "domain": "保育園",
     "prefecture": "埼玉県",
     "city": "朝霞市",
-    "direct_urls": [],
+    "direct_urls": [
+      "https://www.asaka-shakyo.or.jp/about/soshiki.html"
+    ],
     "search_queries": [
       "朝霞市保育協議会 役員名簿",
       "朝霞市保育協議会 理事 会長"
@@ -4394,7 +4459,9 @@
     "domain": "保育園",
     "prefecture": "埼玉県",
     "city": "ふじみ野市",
-    "direct_urls": [],
+    "direct_urls": [
+      "https://www.fujimino-shakyo.or.jp/about/outline.html"
+    ],
     "search_queries": [
       "ふじみ野市保育協議会 役員名簿",
       "ふじみ野市保育協議会 理事 会長"

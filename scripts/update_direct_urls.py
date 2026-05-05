@@ -29,14 +29,29 @@ ROLE_KEYWORDS = [
 SKIP_DOMAINS = [
     "wikipedia.org", "twitter.com", "x.com", "facebook.com",
     "instagram.com", "youtube.com", "amazon.co.jp",
-    "rakuten.co.jp", "indeed.com",
+    "rakuten.co.jp", "indeed.com", "prtimes.jp", "arsvi.com",
+    "blogspot.com", "biglobe.ne.jp", "hide-fujino.com",
+]
+
+# 役員ページらしいURLパスのキーワード
+OFFICER_PATH_KEYWORDS = [
+    "about", "officer", "member", "yakuin", "greeting", "message",
+    "organization", "jimu", "yakusha", "staff", "about-us",
+    "annai", "gaiyou", "outline", "overview", "profile",
 ]
 
 MIN_ROLE_LINES = 3  # 役職情報が何行以上あれば候補とするか
+MAX_ORG_COUNT  = 1  # 同じURLが何団体以上で出たらノイズとみなすか
 
 
 def is_skip_domain(url: str) -> bool:
     return any(d in url for d in SKIP_DOMAINS)
+
+
+def is_officer_page(url: str) -> bool:
+    """役員ページらしいURLかどうか"""
+    url_lower = url.lower()
+    return any(kw in url_lower for kw in OFFICER_PATH_KEYWORDS)
 
 
 def load_existing_direct_urls(orgs: list) -> dict[str, set]:
@@ -119,6 +134,10 @@ def main():
             all_entries.extend(parse_scan_file(fpath))
             print(f"  {level}: {fpath.name} 読み込み完了")
 
+    # 同一URLが何団体で出現しているかカウント（ノイズ検出用）
+    from collections import Counter
+    url_org_count = Counter(e["url"] for e in all_entries)
+
     # direct_urlsにないURLだけ抽出
     candidates = []
     seen = set()
@@ -132,6 +151,14 @@ def main():
         seen.add(key)
 
         if is_skip_domain(url):
+            continue
+
+        # 複数団体で出現したURLはノイズとして除外
+        if url_org_count[url] > MAX_ORG_COUNT:
+            continue
+
+        # 役員ページらしいURLのみ採用
+        if not is_officer_page(url):
             continue
 
         existing_urls = existing.get(org, set())
